@@ -1,0 +1,39 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "/assets/skills/html.png"
+    },
+    {
+      "title": "BOOTSTRAP",
+      "imageSrc": "/assets/skills/bootstrap2.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "/assets/skills/css.png"
+    },
+    
+    {
+      "title": "JSCRIPT",
+      "imageSrc": "/assets/skills/javascript3.png"
+    },
+    {
+      "title": "PYTHON",
+      "imageSrc": "/assets/skills/python.png"
+    },
+    {
+      "title": "NODE",
+      "imageSrc": "/assets/skills/node.png"
+    },
+    {
+      "title": "JAVA",
+      "imageSrc": "/assets/skills/java.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "/assets/skills/sql.png"
+    },
+    {
+      "title": "NEXTJS",
+      "imageSrc": "/assets/skills/nextjs.png"
+    }
+  ]

@@ -1,0 +1,123 @@
+.econtainer
+{
+    color:white;
+    margin-top:79px;
+    margin-left:10%;
+    margin-right:10%;
+   
+    
+
+}
+.etitle
+{
+    color:white;
+    font-size:35px;
+    font-weight:700;
+    letter-spacing:1.75px;
+    text-transform:uppercase;
+ 
+
+}
+.econtent
+{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    margin-top:14px;
+}
+.eskills
+{
+    width:45%;
+    display:flex;
+    flex-wrap:wrap;
+    gap:30px;
+   
+}
+.eskill
+{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    
+}
+.eskillImageContainter
+{
+    background-color:black;
+    border-radius:100%;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    width:120px;
+    height:120px;
+}
+.eskillImageContainter img{
+    width:75px;
+
+}
+.eskill p{
+    font-size:25px;
+}
+.ehistory
+{
+    width:45%;
+    display:flex;
+    flex-direction:column;
+    gap:40px;
+}
+.ehistoryItem
+{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    gap:17px;
+    background: #19376d;
+    background:linear-gradient(90deg,#19376d 0%,rgba(25,55,109,0)100%);
+    border-radius:10px;
+    padding:24px;
+
+}
+.ehistoryItem img
+{
+    width:50px;
+    
+}
+.ehistoryItemDetails
+{
+    font-family:'Times New Roman', Times, serif;
+
+}
+.ehistoryItemDetails h3
+{
+    font-size:20px;
+    font-weight:300;
+
+}
+.ehistoryItemDetails ul{
+    margin-top:6px;
+    list-style-position: inside;
+    font-size:25px;
+    list-style-type:disc;
+    margin-left:17px;
+
+}
+
+@media screen and (max-width:830px)
+{
+    .econtent
+    {
+        flex-direction:column;
+        align-items:center;
+        gap:34px;
+    }
+    .eskill{
+        width:100%;
+        display:flex;
+        flex-direction:column-reverse;
+        justify-content: center;
+    }
+    .ehistory
+    {
+        width:100%;
+        gap:10px;
+    } 
+}

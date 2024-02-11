@@ -1,0 +1,18 @@
+[
+    {
+      "role": "FRONT-END DEVELOPER",
+      "organisation": "CODE-CLAUSE",
+      "startDate": "JUN, 2023",
+      "endDate": "AUGUST 2023",
+      
+      "imageSrc": "/assets/skills/codeclause.png"
+    },
+    {
+      "role": "BACK-END DEVELOPER",
+      "organisation": "CODE-CLAUSE",
+      "startDate": "SEPT, 2023",
+      "endDate": "NOVEMBER, 2023",
+      "experiences": ["HANDLES USER REQUEST"],
+      "imageSrc": "/assets/skills/codeclause.png"
+    }
+  ]
